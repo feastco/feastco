@@ -128,7 +128,7 @@ Team collaboration, event coordination, and organizational planning.
 ## Connect
 
 - GitHub: https://github.com/feastco
-- LinkedIn: https://www.linkedin.com/in/fisco-maulana-i-93ba082a6/
+- LinkedIn: https://www.linkedin.com/in/fiscomaulanaikhwan
 - Email: maulanaikhwan223@gmail.com
 
 ---

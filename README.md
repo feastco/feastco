@@ -1,6 +1,6 @@
 # Fisco Maulana Ikhwan
 
-### Junior Software Engineer | PHP Web Developer
+### Junior Software Engineer | Fullstack Web Developer
 
 Informatics Engineering student at Universitas Dian Nuswantoro with hands-on experience in web application development, backend development, database management, and applied AI.
 

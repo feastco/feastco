@@ -107,8 +107,12 @@ Team collaboration, event coordination, and organizational planning.
 
 ## Certifications
 
-- BNSP Certification
-- IBM Certification
+- BNSP Competency Certificate — Web Developer Certification Scheme (No. 62010 2131 5 007600 2025), Lembaga Sertifikasi Profesi Universitas Dian Nuswantoro — valid Jan 2025 – Jan 2028
+- BNSP Competency Certificate — Junior Mobile Programmer Certification Scheme (No. 62010 2512 5 008286 2025), Lembaga Sertifikasi Profesi Universitas Dian Nuswantoro — valid Sep 2025 – Sep 2028
+- IBM SkillsBuild — Use Generative AI for Software Development (MDL-504)
+- IBM SkillsBuild — IBM Granite Models for Software Development (MDL-567)
+- IBM SkillsBuild — Code Generation and Optimization Using IBM Granite (MDL-566)
+- IBM SkillsBuild x Hacktiv8 Indonesia — Student Developer Initiative: Code Generation and Optimization
 
 ---
 

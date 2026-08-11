@@ -2,20 +2,16 @@
 
 ### Junior Software Engineer | Fullstack Web Developer
 
-Informatics Engineering student at Universitas Dian Nuswantoro with hands-on experience in web application development, backend development, database management, and applied AI.
+Informatics Engineering (D3) student at Universitas Dian Nuswantoro with hands-on experience in PHP web application development, backend development, database management, and applied AI.
 
 I build practical software systems with a focus on maintainable application architecture, structured data, business workflows, and solving real-world problems through technology.
 
 Currently focused on:
 
-* PHP web development
-* Backend development
-* Javascript development
-* Database-driven applications
-* REST API development
-* Software engineering
-* Enterprise application development
-* Applied artificial intelligence
+- PHP web development (CodeIgniter 4, learning Laravel)
+- Backend development & REST API design
+- Database-driven applications (MySQL, learning PostgreSQL)
+- Applied artificial intelligence / NLP
 
 ---
 
@@ -23,252 +19,114 @@ Currently focused on:
 
 I am an Informatics Engineering student at Universitas Dian Nuswantoro with professional experience as an IT Intern at PT Infomedia Nusantara (Telkom Group).
 
-My experience combines professional internship work, academic projects, organizational activities, and independent software development.
+My experience combines internship work in an enterprise IT environment, academic projects, organizational activities, and independent software development.
 
 I enjoy turning requirements into functional software, designing application workflows, working with databases, debugging systems, and continuously improving software quality.
 
-My current career direction is toward software engineering, backend development, and enterprise application development.
+My current career direction is toward software engineering, backend development, and PHP enterprise application development.
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
+**Programming Languages**
+PHP, JavaScript, Python
 
-* PHP
-* JavaScript
-* Python
+**Web Development**
+CodeIgniter 4, HTML5, CSS3, REST API, Next.js, Tailwind CSS, Vue.js
 
-### Web Development
+**Database**
+MySQL, Relational Database Design, Supabase
 
-* CodeIgniter 4
-* Next JS
-* Tailwind
-* Vue JS
-* HTML5
-* CSS3
-* REST API
-* Fast API
+**Development Tools**
+Git, GitHub, Apache, Nginx, Linux
 
-### Database
-
-* MySQL
-* Supabase
-* Relational Database Design
-* Database Management
-
-### Development Tools
-
-* Git
-* GitHub
-* Apache
-* Nginx
-
-### Artificial Intelligence
-
-* Machine Learning
-* Natural Language Processing
-* Text Classification
+**Artificial Intelligence**
+Machine Learning, Natural Language Processing, Text Classification
 
 ---
 
 ## Featured Projects
 
-### Aisin Inventory Management System
+### AISIN Inventory Management System
+Web-based inventory management application built with PHP and CodeIgniter 4. Covers CRUD workflows for stock and product data, data validation, and relational MySQL schema design.
+**Tech:** PHP, CodeIgniter 4, MySQL, HTML, CSS, JavaScript
+**Repo:** https://github.com/feastco/aisin
 
-A web-based inventory management application developed using CodeIgniter 4.
+### Catering E-Commerce Platform (Lavanda Catering)
+Web application for a catering business in Semarang covering product/service management and digital ordering workflows.
+**Tech:** Next.js, TypeScript, Supabase, Tailwind CSS
+**Repo:** https://github.com/feastco/lavanda-catering
 
-The project focuses on structured inventory data, business workflows, and database-driven application development.
-
-**Technology**
-
-PHP, CodeIgniter 4, MySQL, HTML, CSS, JavaScript
-
-**Key areas**
-
-* Inventory management
-* Product and stock data management
-* Database-driven workflows
-* CRUD operations
-* Data validation
-* Web application architecture
-
-[View Repository](REPLACE_WITH_AISIN_REPOSITORY_URL)
-
----
-
-### Catering E-commerce Platform
-
-A web-based e-commerce application developed for a catering business in Semarang.
-
-The application focuses on digital ordering workflows and structured management of catering products and services.
-
-**Technology**
-
-Next JS, JavaScript, HTML, CSS, Supabase, Typescript
-
-**Key areas**
-
-* Product and service management
-* Customer ordering workflow
-* Database management
-* Web-based transaction workflow
-* Responsive web interface
-
-[View Repository](REPLACE_WITH_CATERING_REPOSITORY_URL)
-
----
-
-### Running Event Registration System
-
-A web-based participant registration system developed for running events.
-
-The system focuses on participant data collection, registration workflows, and structured data management.
-
-**Technology**
-
-Next JS, CSS, JavaScript, Tailwind, Supabase
-
-**Key areas**
-
-* Participant registration
-* Participant data management
-* Form validation
-* Registration workflow
-* Administrative data management
-
-[View Repository](REPLACE_WITH_RUNNING_REPOSITORY_URL)
-
----
+### Running Event Registration System (Fun Run Form)
+Participant registration system for running events, covering data collection, validation, and administrative management.
+**Tech:** Next.js, TypeScript, Tailwind CSS, Supabase
+**Repo:** https://github.com/feastco/fun-run-form
 
 ### Indonesian Hate Speech Detection
+Applied AI project for detecting potentially hateful or abusive Indonesian-language text using machine learning and NLP.
+**Tech:** Python, Machine Learning, NLP
+**Repo:** https://github.com/feastco/hate-speech-detection
 
-An applied artificial intelligence project for detecting potentially hateful or abusive Indonesian-language content.
-
-The project applies machine learning and natural language processing techniques to text classification.
-
-**Technology**
-
-Python, Machine Learning, Natural Language Processing, Vue JS, Fast API
-
-**Key areas**
-
-* Text preprocessing
-* Text classification
-* Machine learning
-* Indonesian-language text analysis
-* Model evaluation
-
-[View Repository](REPLACE_WITH_HATE_SPEECH_REPOSITORY_URL)
+### E-Commerce Mobile
+Mobile e-commerce application project.
+**Tech:** Java
+**Repo:** https://github.com/feastco/e-commerce_mobile
 
 ---
 
 ## Professional Experience
 
-### IT Intern
+**IT Intern — PT Infomedia Nusantara (Telkom Group)**
+Semarang, Indonesia | August 2025 – November 2025
 
-**PT Infomedia Nusantara (Telkom Group)**
-Semarang, Indonesia
-August 2025 - November 2025
+- Implemented web application features based on project requirements
+- Supported application maintenance and improvements
+- Debugged application issues within an enterprise IT environment
+- Participated in structured software development workflows
 
-Contributed to web-based application development within an enterprise IT environment.
-
-**Responsibilities included:**
-
-* Implementing web application features based on project requirements
-* Supporting application maintenance and improvements
-* Debugging application issues
-* Participating in software development workflows
-* Working within a professional enterprise technology environment
-
-**Project confidentiality**
-
-Internship projects and source code are not publicly available because they were developed within a restricted company environment and remain subject to organizational access and confidentiality policies.
+*Internship project source code is not publicly available due to company confidentiality policies.*
 
 ---
 
 ## Education
 
-### Diploma in Informatics Engineering
+**Diploma (D3) in Informatics Engineering**
+Universitas Dian Nuswantoro (UDINUS), Semarang, Indonesia | September 2023 – September 2026
 
-**Universitas Dian Nuswantoro (UDINUS)**
-Semarang, Indonesia
-September 2023 - September 2026
-
-Relevant areas:
-
-* Software Engineering
-* Web Development
-* Database Systems
-* Backend Development
-* Artificial Intelligence
-* System Analysis
-* Information Systems
+Relevant areas: Software Engineering, Web Development, Database Systems, Backend Development, Artificial Intelligence, System Analysis.
 
 ---
 
 ## Organizational Experience
 
-### Himpunan Mahasiswa Diploma Teknik Informatika
-
-**Universitas Dian Nuswantoro**
-
-Participated in organizational activities and student programs, developing experience in:
-
-* Team collaboration
-* Event coordination
-* Communication
-* Problem solving
-* Organizational planning
+**Himpunan Mahasiswa Diploma Teknik Informatika** — Universitas Dian Nuswantoro
+Team collaboration, event coordination, and organizational planning.
 
 ---
 
 ## Certifications
 
-* BNSP Certification
-* IBM Certification
+- BNSP Certification
+- IBM Certification
 
 ---
 
 ## Currently Learning
 
-I continuously improve my engineering capabilities through practical projects and structured learning.
-
-Current focus:
-
-* Laravel
-* PostgreSQL
-* Backend engineering
-* Software architecture
-* Enterprise application development
-* System integration
-
----
-
-## Career Interests
-
-* Software Engineering
-* Backend Development
-* PHP Development
-* Web Application Development
-* Enterprise Applications
-* API Development
-* Database Engineering
+- Laravel
+- PostgreSQL
+- Backend engineering & software architecture
+- Enterprise application development
 
 ---
 
 ## Connect
 
-GitHub: https://github.com/feastco
-
-LinkedIn: https://www.linkedin.com/in/fisco-maulana-i-93ba082a6/
-
-Email: [maulanaikhwan223@gmail.com](mailto:maulanaikhwan223@gmail.com)
+- GitHub: https://github.com/feastco
+- LinkedIn: https://www.linkedin.com/in/fisco-maulana-i-93ba082a6/
+- Email: maulanaikhwan223@gmail.com
 
 ---
 
-## Engineering Philosophy
-
-I believe good software should not only work, but should also be understandable, maintainable, and useful.
-
-I use GitHub to document what I build, learn from implementation challenges, and continuously improve my engineering practices.
+*I believe good software should not only work, but should also be understandable, maintainable, and useful. I use GitHub to document what I build and continuously improve my engineering practices.*

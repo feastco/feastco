@@ -2,98 +2,110 @@
 
 ### Junior Software Engineer | Fullstack Web Developer
 
-Informatics Engineering (D3) student at Universitas Dian Nuswantoro with hands-on experience in PHP web application development, backend development, database management, and applied AI.
+Informatics Engineering (D3) graduate from Universitas Dian Nuswantoro with hands-on experience across PHP web development, backend systems, and applied AI. I like building software that is genuinely useful — not just technically clever — and I care about architecture, data integrity, and code that other people can maintain.
 
-I build practical software systems with a focus on maintainable application architecture, structured data, business workflows, and solving real-world problems through technology.
+My work sits at the intersection of practical web development and machine learning: from inventory and e-commerce systems to an NLP text-classification research project. I have the instincts of an engineer who reads requirements carefully, asks "why" before writing code, and ships features that solve real business problems rather than demonstrating stack preferences.
 
-Currently focused on:
+I bring this mindset to enterprises — I've worked inside an IT team at a Telkom Group company as an intern, where I learned what production-grade software throughput looks like: structured workflows, disciplined debugging, and the importance of the codebase you leave behind.
+
+---
+
+## What I'm Working On
 
 - PHP web development (CodeIgniter 4, learning Laravel)
 - Backend development & REST API design
-- Database-driven applications (MySQL, learning PostgreSQL)
-- Applied artificial intelligence / NLP
+- Database-driven applications (MySQL, moving toward PostgreSQL)
+- Applied machine learning and Natural Language Processing
 
 ---
 
-## 🟢 Live Projects (Deployed & Public)
+## Select Projects
 
-| Project | Description | Stack | Live |
-|---|---|---|---|
-| **Fun Run Form** | Running event registration system | Next.js, TS, Supabase, Tailwind | [fun-run-form.vercel.app](https://fun-run-form.vercel.app) |
-| **Web Profile** | Personal portfolio site | Next.js, TS, Tailwind | [web-profile-sigma-ten.vercel.app](https://web-profile-sigma-ten.vercel.app) |
-| **Lavanda Catering** | Catering e-commerce platform | Next.js, TS, Supabase | [lavandacatering.com](https://lavandacatering.com) |
-
----
-
-## 📦 Other Projects
-
-| Project | Description | Stack | Repo |
-|---|---|---|---|
-| **AISIN Inventory** | Web inventory management for spare-parts | PHP, CodeIgniter 4, MySQL | [feastco/aisin](https://github.com/feastco/aisin) |
-| **Indonesian Hate Speech Detection** | NLP/ML pipeline for hate speech classification | Python, scikit-learn, FastAPI | [feastco/hate-speech-detection](https://github.com/feastco/hate-speech-detection) |
-| **Universal Converter** | Multi-category unit conversion web app | TypeScript, Next.js, Tailwind | [feastco/universal-converter](https://github.com/feastco/universal-converter) |
-| **Django Blog** | Full blog app with auth & admin | Python, Django, SQLite | [feastco/django_blog](https://github.com/feastco/django_blog) |
-| **E-Commerce Mobile** | Native Android e-commerce app | Java, Android | [feastco/e-commerce_mobile](https://github.com/feastco/e-commerce_mobile) |
-| **Healthcare (PKU Operations Sim)** | Laravel-based healthcare ops management sim | PHP, Laravel, PostgreSQL | [feastco/healthcare](https://github.com/feastco/healthcare) |
+| Project | What it does | Stack |
+|---|---|---|
+| **AISIN Inventory System** | Inventory & spare-part management web app with data validation and relational schema design | PHP, CodeIgniter 4, MySQL |
+| **Indonesian Hate Speech Detection** | Applied NLP pipeline to classify Indonesian-language text, backed by proper statistical evaluation | Python, scikit-learn, FastAPI |
+| **Healthcare Operations (PKU)** | Portfolio simulation of a healthcare operations management system built to enterprise document standards | PHP, Laravel, PostgreSQL |
+| **Django Blog** | Full-featured blog with user auth, admin, search, and caching | Python, Django, SQLite/Redis |
+| **Fun Run Registration** | Event participant registration system handling data collection and validation | Next.js, TypeScript, Supabase |
+| **Lavanda Catering** | An e-commerce platform for a catering business handling digital ordering | Next.js, TypeScript, Supabase |
+| **Personal Portfolio (Web Profile)** | My portfolio site with project showcase and certification records | Next.js, TypeScript |
 
 ---
 
-## 🛠 Technical Skills
+## Live Demos
 
-**Programming Languages**
+- **Fun Run Form** — https://fun-run-form.vercel.app
+- **Lavanda Catering** — https://lavanda-catering.vercel.app
+- **Personal Portfolio** — https://web-profile-sigma-ten.vercel.app
+
+---
+
+## Technical Skills
+
+**Languages**
+
 PHP, JavaScript, TypeScript, Python, Java
 
 **Web Development**
+
 CodeIgniter 4, Laravel (learning), HTML5, CSS3, REST API, Next.js, Tailwind CSS, Vue.js, Bootstrap
 
-**Database**
+**Database & Backend**
+
 MySQL, Relational Database Design, Supabase, PostgreSQL (learning)
 
-**AI / Machine Learning**
-Text Classification, Natural Language Processing, scikit-learn, TF-IDF, Statistical testing (McNemar, Chi-square, Wilson CI)
+**Artificial Intelligence / ML**
 
-**Development Tools**
+Text Classification, Natural Language Processing, scikit-learn, TF-IDF, Statistical testing (McNemar, Chi-square, Wilson confidence interval)
+
+**Tools & Environment**
+
 Git, GitHub, Apache, Nginx, Linux, Laragon
 
 **Mobile**
+
 Java (Android), XML layouts, Material Components
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-**IT Intern — PT Infomedia Nusantara (Telkom Group)**
+### IT Intern — PT Infomedia Nusantara (Telkom Group)
+
 Semarang, Indonesia | August 2025 – November 2025
 
-- Implemented web application features based on project requirements
-- Supported application maintenance and improvements
-- Debugged application issues within an enterprise IT environment
-- Participated in structured software development workflows
+- Implemented web application features from project requirements
+- Supported application maintenance and continuous improvement
+- Debugged application issues in an enterprise IT environment
+- Followed structured software development workflows
 
-*Internship project source code is not publicly available due to company confidentiality policies.*
+*The internship project source code is not publicly available due to company confidentiality policy.*
 
 ---
 
-## 🎓 Education
+## Education
 
-**Diploma (D3) in Informatics Engineering**
+### Diploma (D3) in Informatics Engineering
+
 Universitas Dian Nuswantoro (UDINUS), Semarang, Indonesia | September 2023 – September 2026
 
 Relevant areas: Software Engineering, Web Development, Database Systems, Backend Development, Artificial Intelligence, System Analysis.
 
 ---
 
-## 🏅 Organizational Experience
+## Organizational Experience
 
-**Himpunan Mahasiswa Diploma Teknik Informatika** — Universitas Dian Nuswantoro
-Team collaboration, event coordination, and organizational planning.
+**Himpunan Mahasiswa Diploma Teknik Informatika — Universitas Dian Nuswantoro**
+
+Collaboration, event coordination, and organizational planning within the student body.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- BNSP Competency Certificate — Web Developer Certification Scheme (No. 62010 2131 5 007600 2025), Lembaga Sertifikasi Profesi Universitas Dian Nuswantoro — valid Jan 2025 – Jan 2028
-- BNSP Competency Certificate — Junior Mobile Programmer Certification Scheme (No. 62010 2512 5 008286 2025), Lembaga Sertifikasi Profesi Universitas Dian Nuswantoro — valid Sep 2025 – Sep 2028
+- **BNSP Competency — Web Developer** (No. 62010 2131 5 007600 2025), LSP Universitas Dian Nuswantoro — valid Jan 2025 – Jan 2028
+- **BNSP Competency — Junior Mobile Programmer** (No. 62010 2512 5 008286 2025), LSP Universitas Dian Nuswantoro — valid Sep 2025 – Sep 2028
 - IBM SkillsBuild — Use Generative AI for Software Development (MDL-504)
 - IBM SkillsBuild — IBM Granite Models for Software Development (MDL-567)
 - IBM SkillsBuild — Code Generation and Optimization Using IBM Granite (MDL-566)
@@ -101,7 +113,7 @@ Team collaboration, event coordination, and organizational planning.
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - Laravel
 - PostgreSQL
@@ -110,7 +122,7 @@ Team collaboration, event coordination, and organizational planning.
 
 ---
 
-## 🌐 Connect
+## Connect
 
 - GitHub: https://github.com/feastco
 - LinkedIn: https://www.linkedin.com/in/fiscomaulanaikhwan
@@ -118,4 +130,4 @@ Team collaboration, event coordination, and organizational planning.
 
 ---
 
-*I believe good software should be useful, honest, and maintainable — and that every project should leave the codebase a little better than I found it.*
+*I'm looking for opportunities where I can grow as a software engineer, work on products that matter, and build software the teams around me are proud to maintain.*

@@ -15,67 +15,53 @@ Currently focused on:
 
 ---
 
-## About Me
+## 🟢 Live Projects (Deployed & Public)
 
-I am an Informatics Engineering student at Universitas Dian Nuswantoro with professional experience as an IT Intern at PT Infomedia Nusantara (Telkom Group).
-
-My experience combines internship work in an enterprise IT environment, academic projects, organizational activities, and independent software development.
-
-I enjoy turning requirements into functional software, designing application workflows, working with databases, debugging systems, and continuously improving software quality.
-
-My current career direction is toward software engineering, backend development, and PHP enterprise application development.
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| **Fun Run Form** | Running event registration system | Next.js, TS, Supabase, Tailwind | [fun-run-form.vercel.app](https://fun-run-form.vercel.app) |
+| **Web Profile** | Personal portfolio site | Next.js, TS, Tailwind | [web-profile-sigma-ten.vercel.app](https://web-profile-sigma-ten.vercel.app) |
+| **Lavanda Catering** | Catering e-commerce platform | Next.js, TS, Supabase | [lavandacatering.com](https://lavandacatering.com) |
 
 ---
 
-## Technical Skills
+## 📦 Other Projects
+
+| Project | Description | Stack | Repo |
+|---|---|---|---|
+| **AISIN Inventory** | Web inventory management for spare-parts | PHP, CodeIgniter 4, MySQL | [feastco/aisin](https://github.com/feastco/aisin) |
+| **Indonesian Hate Speech Detection** | NLP/ML pipeline for hate speech classification | Python, scikit-learn, FastAPI | [feastco/hate-speech-detection](https://github.com/feastco/hate-speech-detection) |
+| **Universal Converter** | Multi-category unit conversion web app | TypeScript, Next.js, Tailwind | [feastco/universal-converter](https://github.com/feastco/universal-converter) |
+| **Django Blog** | Full blog app with auth & admin | Python, Django, SQLite | [feastco/django_blog](https://github.com/feastco/django_blog) |
+| **E-Commerce Mobile** | Native Android e-commerce app | Java, Android | [feastco/e-commerce_mobile](https://github.com/feastco/e-commerce_mobile) |
+| **MediSense AI** | AI-assisted symptom triage prototype (academic) | Python, NLP, FastAPI | [feastco/medisense-ai](https://github.com/feastco/medisense-ai) |
+| **Healthcare (PKU Operations Sim)** | Laravel-based healthcare ops management sim | PHP, Laravel, PostgreSQL | [feastco/healthcare](https://github.com/feastco/healthcare) |
+
+---
+
+## 🛠 Technical Skills
 
 **Programming Languages**
-PHP, JavaScript, Python
+PHP, JavaScript, TypeScript, Python, Java
 
 **Web Development**
-CodeIgniter 4, HTML5, CSS3, REST API, Next.js, Tailwind CSS, Vue.js
+CodeIgniter 4, Laravel (learning), HTML5, CSS3, REST API, Next.js, Tailwind CSS, Vue.js, Bootstrap
 
 **Database**
-MySQL, Relational Database Design, Supabase
+MySQL, Relational Database Design, Supabase, PostgreSQL (learning)
+
+**AI / Machine Learning**
+Text Classification, Natural Language Processing, scikit-learn, TF-IDF, Statistical testing (McNemar, Chi-square, Wilson CI)
 
 **Development Tools**
-Git, GitHub, Apache, Nginx, Linux
+Git, GitHub, Apache, Nginx, Linux, Laragon
 
-**Artificial Intelligence**
-Machine Learning, Natural Language Processing, Text Classification
-
----
-
-## Featured Projects
-
-### AISIN Inventory Management System
-Web-based inventory management application built with PHP and CodeIgniter 4. Covers CRUD workflows for stock and product data, data validation, and relational MySQL schema design.
-**Tech:** PHP, CodeIgniter 4, MySQL, HTML, CSS, JavaScript
-**Repo:** https://github.com/feastco/aisin
-
-### Catering E-Commerce Platform (Lavanda Catering)
-Web application for a catering business in Semarang covering product/service management and digital ordering workflows.
-**Tech:** Next.js, TypeScript, Supabase, Tailwind CSS
-**Repo:** https://github.com/feastco/lavanda-catering
-
-### Running Event Registration System (Fun Run Form)
-Participant registration system for running events, covering data collection, validation, and administrative management.
-**Tech:** Next.js, TypeScript, Tailwind CSS, Supabase
-**Repo:** https://github.com/feastco/fun-run-form
-
-### Indonesian Hate Speech Detection
-Applied AI project for detecting potentially hateful or abusive Indonesian-language text using machine learning and NLP.
-**Tech:** Python, Machine Learning, NLP
-**Repo:** https://github.com/feastco/hate-speech-detection
-
-### E-Commerce Mobile
-Mobile e-commerce application project.
-**Tech:** Java
-**Repo:** https://github.com/feastco/e-commerce_mobile
+**Mobile**
+Java (Android), XML layouts, Material Components
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 **IT Intern — PT Infomedia Nusantara (Telkom Group)**
 Semarang, Indonesia | August 2025 – November 2025
@@ -89,7 +75,7 @@ Semarang, Indonesia | August 2025 – November 2025
 
 ---
 
-## Education
+## 🎓 Education
 
 **Diploma (D3) in Informatics Engineering**
 Universitas Dian Nuswantoro (UDINUS), Semarang, Indonesia | September 2023 – September 2026
@@ -98,14 +84,14 @@ Relevant areas: Software Engineering, Web Development, Database Systems, Backend
 
 ---
 
-## Organizational Experience
+## 🏅 Organizational Experience
 
 **Himpunan Mahasiswa Diploma Teknik Informatika** — Universitas Dian Nuswantoro
 Team collaboration, event coordination, and organizational planning.
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 - BNSP Competency Certificate — Web Developer Certification Scheme (No. 62010 2131 5 007600 2025), Lembaga Sertifikasi Profesi Universitas Dian Nuswantoro — valid Jan 2025 – Jan 2028
 - BNSP Competency Certificate — Junior Mobile Programmer Certification Scheme (No. 62010 2512 5 008286 2025), Lembaga Sertifikasi Profesi Universitas Dian Nuswantoro — valid Sep 2025 – Sep 2028
@@ -116,7 +102,7 @@ Team collaboration, event coordination, and organizational planning.
 
 ---
 
-## Currently Learning
+## 📈 Currently Learning
 
 - Laravel
 - PostgreSQL
@@ -125,7 +111,7 @@ Team collaboration, event coordination, and organizational planning.
 
 ---
 
-## Connect
+## 🌐 Connect
 
 - GitHub: https://github.com/feastco
 - LinkedIn: https://www.linkedin.com/in/fiscomaulanaikhwan
@@ -133,4 +119,4 @@ Team collaboration, event coordination, and organizational planning.
 
 ---
 
-*I believe good software should not only work, but should also be understandable, maintainable, and useful. I use GitHub to document what I build and continuously improve my engineering practices.*
+*I believe good software should be useful, honest, and maintainable — and that every project should leave the codebase a little better than I found it.*

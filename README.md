@@ -8,16 +8,12 @@ My work sits at the intersection of practical web development and machine learni
 
 I bring this mindset to enterprises — I've worked inside an IT team at a Telkom Group company as an intern, where I learned what production-grade software throughput looks like: structured workflows, disciplined debugging, and the importance of the codebase you leave behind.
 
----
-
 ## What I'm Working On
 
 - PHP web development (CodeIgniter 4, Laravel)
 - Backend development & REST API design
 - Database-driven applications (MySQL, moving toward PostgreSQL)
 - Applied machine learning and Natural Language Processing
-
----
 
 ## Select Projects
 
@@ -31,15 +27,11 @@ I bring this mindset to enterprises — I've worked inside an IT team at a Telko
 | **Lavanda Catering** | An e-commerce platform for a catering business handling digital ordering | Next.js, TypeScript, Supabase |
 | **Personal Portfolio (Web Profile)** | My portfolio site with project showcase and certification records | Next.js, TypeScript |
 
----
-
 ## Live Demos
 
 - **Fun Run Form** — https://fun-run-form.vercel.app
 - **Lavanda Catering** — https://lavanda-catering.vercel.app
 - **Personal Portfolio** — https://web-profile-sigma-ten.vercel.app
-
----
 
 ## Technical Skills
 
@@ -67,8 +59,6 @@ Git, GitHub, Apache, Nginx, Linux, Laragon
 
 Java (Android), XML layouts, Material Components
 
----
-
 ## Professional Experience
 
 ### IT Intern — PT Infomedia Nusantara (Telkom Group)
@@ -82,8 +72,6 @@ Semarang, Indonesia | August 2025 – November 2025
 
 *The internship project source code is not publicly available due to company confidentiality policy.*
 
----
-
 ## Education
 
 ### Diploma (D3) in Informatics Engineering
@@ -92,15 +80,11 @@ Universitas Dian Nuswantoro (UDINUS), Semarang, Indonesia | September 2023 – S
 
 Relevant areas: Software Engineering, Web Development, Database Systems, Backend Development, Artificial Intelligence, System Analysis.
 
----
-
 ## Organizational Experience
 
 **Himpunan Mahasiswa Diploma Teknik Informatika — Universitas Dian Nuswantoro**
 
 Collaboration, event coordination, and organizational planning within the student body.
-
----
 
 ## Certifications
 
@@ -111,8 +95,6 @@ Collaboration, event coordination, and organizational planning within the studen
 - IBM SkillsBuild — Code Generation and Optimization Using IBM Granite (MDL-566)
 - IBM SkillsBuild x Hacktiv8 Indonesia — Student Developer Initiative: Code Generation and Optimization
 
----
-
 ## Current Focus
 
 - Laravel
@@ -120,14 +102,10 @@ Collaboration, event coordination, and organizational planning within the studen
 - Backend engineering & software architecture
 - Enterprise application development
 
----
-
 ## Connect
 
 - GitHub: https://github.com/feastco
 - LinkedIn: https://www.linkedin.com/in/fiscomaulanaikhwan
 - Email: maulanaikhwan223@gmail.com
-
----
 
 *I'm looking for opportunities where I can grow as a software engineer, work on products that matter, and build software the teams around me are proud to maintain.*

@@ -12,7 +12,7 @@ I bring this mindset to enterprises — I've worked inside an IT team at a Telko
 
 ## What I'm Working On
 
-- PHP web development (CodeIgniter 4, learning Laravel)
+- PHP web development (CodeIgniter 4, Laravel)
 - Backend development & REST API design
 - Database-driven applications (MySQL, moving toward PostgreSQL)
 - Applied machine learning and Natural Language Processing
@@ -25,7 +25,7 @@ I bring this mindset to enterprises — I've worked inside an IT team at a Telko
 |---|---|---|
 | **AISIN Inventory System** | Inventory & spare-part management web app with data validation and relational schema design | PHP, CodeIgniter 4, MySQL |
 | **Indonesian Hate Speech Detection** | Applied NLP pipeline to classify Indonesian-language text, backed by proper statistical evaluation | Python, scikit-learn, FastAPI |
-| **Healthcare Operations (PKU)** | Portfolio simulation of a healthcare operations management system built to enterprise document standards | PHP, Laravel, PostgreSQL |
+| **Healthcare Operations** | Portfolio simulation of a healthcare operations management system built to enterprise document standards | PHP, Laravel, PostgreSQL |
 | **Django Blog** | Full-featured blog with user auth, admin, search, and caching | Python, Django, SQLite/Redis |
 | **Fun Run Registration** | Event participant registration system handling data collection and validation | Next.js, TypeScript, Supabase |
 | **Lavanda Catering** | An e-commerce platform for a catering business handling digital ordering | Next.js, TypeScript, Supabase |
@@ -49,11 +49,11 @@ PHP, JavaScript, TypeScript, Python, Java
 
 **Web Development**
 
-CodeIgniter 4, Laravel (learning), HTML5, CSS3, REST API, Next.js, Tailwind CSS, Vue.js, Bootstrap
+CodeIgniter 4, Laravel, HTML5, CSS3, REST API, Next.js, Tailwind CSS, Vue.js, Bootstrap
 
 **Database & Backend**
 
-MySQL, Relational Database Design, Supabase, PostgreSQL (learning)
+MySQL, Relational Database Design, Supabase, PostgreSQL
 
 **Artificial Intelligence / ML**
 
@@ -113,7 +113,7 @@ Collaboration, event coordination, and organizational planning within the studen
 
 ---
 
-## Currently Learning
+## Current Focus
 
 - Laravel
 - PostgreSQL

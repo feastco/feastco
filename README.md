@@ -34,7 +34,6 @@ Currently focused on:
 | **Universal Converter** | Multi-category unit conversion web app | TypeScript, Next.js, Tailwind | [feastco/universal-converter](https://github.com/feastco/universal-converter) |
 | **Django Blog** | Full blog app with auth & admin | Python, Django, SQLite | [feastco/django_blog](https://github.com/feastco/django_blog) |
 | **E-Commerce Mobile** | Native Android e-commerce app | Java, Android | [feastco/e-commerce_mobile](https://github.com/feastco/e-commerce_mobile) |
-| **MediSense AI** | AI-assisted symptom triage prototype (academic) | Python, NLP, FastAPI | [feastco/medisense-ai](https://github.com/feastco/medisense-ai) |
 | **Healthcare (PKU Operations Sim)** | Laravel-based healthcare ops management sim | PHP, Laravel, PostgreSQL | [feastco/healthcare](https://github.com/feastco/healthcare) |
 
 ---
